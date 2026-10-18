@@ -1,15 +1,15 @@
 # Tabs
 
-Tabs è un'app Android per annotare al volo tutto ciò che è in sospeso: le cose da fare, i soldi, gli oggetti prestati e le risposte che aspetti dagli altri.
+Tabs is an Android app for quickly jotting down everything that is still pending: things to do, money, lent items and answers you are waiting for from other people.
 
-Qui ci sono solo i file di installazione (APK). Tutti i dati restano sul telefono.
+This repository only holds the installation files (APKs). All your data stays on your phone.
 
-## Installare Tabs
+## Installing Tabs
 
-1. Apri sul telefono la pagina dell'**[ultima versione](https://github.com/RANAHHHH/Tabs-releases/releases/latest)** e tocca il file `tabs-….apk` in fondo, sotto *Assets*.
-2. Apri il file scaricato. La prima volta Android chiede di permettere l'installazione dall'app che stai usando (per esempio Chrome o File): attiva l'interruttore e torna indietro.
-3. Tocca **Installa**.
+1. On your phone, open the page of the **[latest version](https://github.com/RANAHHHH/Tabs-releases/releases/latest)** and tap the `tabs-….apk` file at the bottom, under *Assets*.
+2. Open the downloaded file. The first time, Android asks you to allow installing apps from the app you are using (for example Chrome or Files): turn the switch on and go back.
+3. Tap **Install**.
 
-## Aggiornamenti
+## Updates
 
-Dalla versione 1.2.0 Tabs controlla da sola se c'è una versione nuova e propone di installarla: basta toccare **Aggiorna**. Le cose che hai annotato restano tutte al loro posto.
+Since version 1.2.0, Tabs checks by itself whether a new version is available and offers to install it: just tap **Update**. Everything you have written down stays where it is.
